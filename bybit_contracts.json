@@ -1,1850 +1,1870 @@
 [
     {
         "symbol": "1000000BABYDOGEUSDT",
-        "volume_24h_usd": 3646439.3833
+        "volume_24h_usd": 3502452.2967
     },
     {
         "symbol": "1000000CHEEMSUSDT",
-        "volume_24h_usd": 1147487.739
+        "volume_24h_usd": 1045674.5187
     },
     {
         "symbol": "1000000MOGUSDT",
-        "volume_24h_usd": 5410602.1835
+        "volume_24h_usd": 5283251.9907
     },
     {
-        "symbol": "1000000PEIPEIUSDT",
-        "volume_24h_usd": 523856.3669
-    },
-    {
-        "symbol": "10000COQUSDT",
-        "volume_24h_usd": 571102.7614
+        "symbol": "10000ELONUSDT",
+        "volume_24h_usd": 1896394.8159
     },
     {
         "symbol": "10000LADYSUSDT",
-        "volume_24h_usd": 1140280.7408
+        "volume_24h_usd": 1192102.5949
     },
     {
         "symbol": "10000SATSUSDT",
-        "volume_24h_usd": 4709785.1768
+        "volume_24h_usd": 5012862.7912
     },
     {
         "symbol": "10000WENUSDT",
-        "volume_24h_usd": 1640755.0631
+        "volume_24h_usd": 1349393.3992
     },
     {
         "symbol": "10000WHYUSDT",
-        "volume_24h_usd": 2241832.0684
+        "volume_24h_usd": 2020530.9443
     },
     {
         "symbol": "1000APUUSDT",
-        "volume_24h_usd": 752753.1615
+        "volume_24h_usd": 727983.5249
     },
     {
         "symbol": "1000BONKPERP",
-        "volume_24h_usd": 2775323.0804
+        "volume_24h_usd": 2827272.34
     },
     {
         "symbol": "1000BONKUSDT",
-        "volume_24h_usd": 184042030.9167
+        "volume_24h_usd": 187862719.4609
     },
     {
         "symbol": "1000BTTUSDT",
-        "volume_24h_usd": 1591122.6667
+        "volume_24h_usd": 1309213.2231
     },
     {
         "symbol": "1000CATSUSDT",
-        "volume_24h_usd": 1940870.8071
+        "volume_24h_usd": 2067160.6933
     },
     {
         "symbol": "1000CATUSDT",
-        "volume_24h_usd": 1466231.9598
+        "volume_24h_usd": 1695028.3088
     },
     {
         "symbol": "1000FLOKIUSDT",
-        "volume_24h_usd": 26425164.8571
+        "volume_24h_usd": 37817154.3284
     },
     {
         "symbol": "1000LUNCUSDT",
-        "volume_24h_usd": 1551370.3696
+        "volume_24h_usd": 1441124.804
     },
     {
         "symbol": "1000MUMUUSDT",
-        "volume_24h_usd": 1096173.3356
+        "volume_24h_usd": 1230805.6452
     },
     {
         "symbol": "1000NEIROCTOUSDT",
-        "volume_24h_usd": 9495794.5439
+        "volume_24h_usd": 10434258.485
     },
     {
         "symbol": "1000PEPEUSDT",
-        "volume_24h_usd": 293569455.1555
+        "volume_24h_usd": 286169326.4246
     },
     {
         "symbol": "1000RATSUSDT",
-        "volume_24h_usd": 4171660.7617
+        "volume_24h_usd": 4095688.6206
     },
     {
         "symbol": "1000TOSHIUSDT",
-        "volume_24h_usd": 3331491.0238
+        "volume_24h_usd": 2754120.8845
     },
     {
         "symbol": "1000TURBOUSDT",
-        "volume_24h_usd": 28003617.09
+        "volume_24h_usd": 27787057.3971
     },
     {
         "symbol": "1000XECUSDT",
-        "volume_24h_usd": 764731.0465
+        "volume_24h_usd": 723368.7207
     },
     {
         "symbol": "1000XUSDT",
-        "volume_24h_usd": 5239796.8473
+        "volume_24h_usd": 5396985.8674
     },
     {
         "symbol": "1INCHUSDT",
-        "volume_24h_usd": 3813698.723
+        "volume_24h_usd": 2768192.4154
     },
     {
         "symbol": "A8USDT",
-        "volume_24h_usd": 1716062.9141
+        "volume_24h_usd": 1512825.998
     },
     {
         "symbol": "AAVEUSDT",
-        "volume_24h_usd": 90127563.6255
+        "volume_24h_usd": 88971096.4086
     },
     {
         "symbol": "ACEUSDT",
-        "volume_24h_usd": 1890230.629
+        "volume_24h_usd": 1278518.3073
     },
     {
         "symbol": "ACHUSDT",
-        "volume_24h_usd": 2741082.5445
+        "volume_24h_usd": 2403784.0064
     },
     {
         "symbol": "ACTUSDT",
-        "volume_24h_usd": 5557998.9414
+        "volume_24h_usd": 4926993.9936
     },
     {
         "symbol": "ADAUSDT",
-        "volume_24h_usd": 239680519.16
+        "volume_24h_usd": 238549827.8663
     },
     {
         "symbol": "AERGOUSDT",
-        "volume_24h_usd": 43326388.6157
+        "volume_24h_usd": 35689284.14
     },
     {
         "symbol": "AEROUSDT",
-        "volume_24h_usd": 5492707.1243
+        "volume_24h_usd": 5802414.8723
     },
     {
         "symbol": "AEVOUSDT",
-        "volume_24h_usd": 1500143.2033
+        "volume_24h_usd": 1614524.7664
     },
     {
         "symbol": "AGIUSDT",
-        "volume_24h_usd": 2359944.4228
+        "volume_24h_usd": 2905426.6187
     },
     {
         "symbol": "AGLDUSDT",
-        "volume_24h_usd": 4493452.3132
+        "volume_24h_usd": 5916626.587
     },
     {
         "symbol": "AI16ZUSDT",
-        "volume_24h_usd": 87176302.9474
+        "volume_24h_usd": 95287782.3235
     },
     {
         "symbol": "AIOZUSDT",
-        "volume_24h_usd": 4298746.0354
+        "volume_24h_usd": 4120949.3281
     },
     {
         "symbol": "AIUSDT",
-        "volume_24h_usd": 907071.0503
+        "volume_24h_usd": 524157.0675
     },
     {
         "symbol": "AIXBTUSDT",
-        "volume_24h_usd": 29108461.6419
+        "volume_24h_usd": 36485533.2668
     },
     {
         "symbol": "AKTUSDT",
-        "volume_24h_usd": 895183.78
+        "volume_24h_usd": 907239.5515
     },
     {
         "symbol": "ALCHUSDT",
-        "volume_24h_usd": 30807951.9424
+        "volume_24h_usd": 30266475.9746
     },
     {
         "symbol": "ALEOUSDT",
-        "volume_24h_usd": 1058060.625
+        "volume_24h_usd": 977995.7491
     },
     {
         "symbol": "ALGOUSDT",
-        "volume_24h_usd": 17018218.5131
+        "volume_24h_usd": 14840577.2129
     },
     {
         "symbol": "ALICEUSDT",
-        "volume_24h_usd": 2598527.7947
+        "volume_24h_usd": 2661912.1633
     },
     {
         "symbol": "ALPACAUSDT",
-        "volume_24h_usd": 449789852.1617
+        "volume_24h_usd": 344152825.4276
     },
     {
         "symbol": "ALPHAUSDT",
-        "volume_24h_usd": 795092.9069
+        "volume_24h_usd": 778828.8212
     },
     {
         "symbol": "ALTUSDT",
-        "volume_24h_usd": 5041479.9145
+        "volume_24h_usd": 5384511.2911
     },
     {
         "symbol": "ALUUSDT",
-        "volume_24h_usd": 1224815.8174
+        "volume_24h_usd": 1448310.9325
     },
     {
         "symbol": "ANIMEUSDT",
-        "volume_24h_usd": 10668869.2916
+        "volume_24h_usd": 12840409.2683
     },
     {
         "symbol": "ANKRUSDT",
-        "volume_24h_usd": 2062289.5144
+        "volume_24h_usd": 1548176.6304
     },
     {
         "symbol": "APEUSDT",
-        "volume_24h_usd": 7202131.5933
+        "volume_24h_usd": 7989195.0423
     },
     {
         "symbol": "API3USDT",
-        "volume_24h_usd": 3981257.4876
+        "volume_24h_usd": 5080424.9031
     },
     {
         "symbol": "APTUSDT",
-        "volume_24h_usd": 24961892.3691
+        "volume_24h_usd": 26735966.346
     },
     {
         "symbol": "ARBUSDT",
-        "volume_24h_usd": 36010198.6919
+        "volume_24h_usd": 39380342.1253
     },
     {
         "symbol": "ARCUSDT",
-        "volume_24h_usd": 33133374.7519
+        "volume_24h_usd": 34388087.6536
     },
     {
         "symbol": "ARKMUSDT",
-        "volume_24h_usd": 6187006.5467
+        "volume_24h_usd": 6763652.4817
     },
     {
         "symbol": "ARKUSDT",
-        "volume_24h_usd": 10424384.5208
+        "volume_24h_usd": 7045734.2295
     },
     {
         "symbol": "ARPAUSDT",
-        "volume_24h_usd": 1618819.6122
+        "volume_24h_usd": 1365346.0767
     },
     {
         "symbol": "ARUSDT",
-        "volume_24h_usd": 7935203.589
+        "volume_24h_usd": 8726513.1527
     },
     {
         "symbol": "ASTRUSDT",
-        "volume_24h_usd": 853640.556
+        "volume_24h_usd": 828500.7017
     },
     {
         "symbol": "ATHUSDT",
-        "volume_24h_usd": 4218498.9834
+        "volume_24h_usd": 5091480.57
     },
     {
         "symbol": "ATOMUSDT",
-        "volume_24h_usd": 28894920.2571
+        "volume_24h_usd": 24353084.2946
     },
     {
         "symbol": "AUCTIONUSDT",
-        "volume_24h_usd": 6824183.6781
+        "volume_24h_usd": 6269909.7311
     },
     {
         "symbol": "AUDIOUSDT",
-        "volume_24h_usd": 3826843.1416
+        "volume_24h_usd": 3636140.9509
     },
     {
         "symbol": "AVAAIUSDT",
-        "volume_24h_usd": 2928268.6239
+        "volume_24h_usd": 5799374.8056
     },
     {
         "symbol": "AVAILUSDT",
-        "volume_24h_usd": 508328.8876
+        "volume_24h_usd": 667283.9349
     },
     {
         "symbol": "AVAXUSDT",
-        "volume_24h_usd": 110613766.3341
+        "volume_24h_usd": 111476398.2627
     },
     {
         "symbol": "AVLUSDT",
-        "volume_24h_usd": 1050270.8769
+        "volume_24h_usd": 1511741.2946
     },
     {
         "symbol": "AXLUSDT",
-        "volume_24h_usd": 1179904.8379
+        "volume_24h_usd": 1088088.3228
     },
     {
         "symbol": "AXSUSDT",
-        "volume_24h_usd": 5143256.5387
+        "volume_24h_usd": 4923955.9178
     },
     {
         "symbol": "B3USDT",
-        "volume_24h_usd": 2505805.9585
+        "volume_24h_usd": 4814408.6018
     },
     {
         "symbol": "BABYUSDT",
-        "volume_24h_usd": 10693996.7235
+        "volume_24h_usd": 13499937.17
     },
     {
         "symbol": "BADGERUSDT",
-        "volume_24h_usd": 618521.1224
+        "volume_24h_usd": 807853.9734
     },
     {
         "symbol": "BAKEUSDT",
-        "volume_24h_usd": 1076925.9156
+        "volume_24h_usd": 1018248.3363
     },
     {
         "symbol": "BANANAS31USDT",
-        "volume_24h_usd": 1118405.8185
+        "volume_24h_usd": 606741.1844
     },
     {
         "symbol": "BANANAUSDT",
-        "volume_24h_usd": 7725797.5203
+        "volume_24h_usd": 5877360.8949
     },
     {
         "symbol": "BANDUSDT",
-        "volume_24h_usd": 652862.1822
+        "volume_24h_usd": 703204.9687
     },
     {
         "symbol": "BANUSDT",
-        "volume_24h_usd": 953135.8449
+        "volume_24h_usd": 919815.2583
     },
     {
         "symbol": "BATUSDT",
-        "volume_24h_usd": 3038990.3477
+        "volume_24h_usd": 3238627.2175
     },
     {
         "symbol": "BBUSDT",
-        "volume_24h_usd": 731274.1625
+        "volume_24h_usd": 639390.0588
     },
     {
         "symbol": "BCHUSDT",
-        "volume_24h_usd": 31445910.534
+        "volume_24h_usd": 45424931.683
     },
     {
         "symbol": "BEAMUSDT",
-        "volume_24h_usd": 3359519.4703
+        "volume_24h_usd": 3408187.931
     },
     {
         "symbol": "BELUSDT",
-        "volume_24h_usd": 2756067.6152
+        "volume_24h_usd": 2390866.8423
     },
     {
         "symbol": "BERAUSDT",
-        "volume_24h_usd": 22302752.989
+        "volume_24h_usd": 18225342.617
     },
     {
         "symbol": "BICOUSDT",
-        "volume_24h_usd": 996874.8509
+        "volume_24h_usd": 749761.2404
     },
     {
         "symbol": "BIGTIMEUSDT",
-        "volume_24h_usd": 15666170.3071
+        "volume_24h_usd": 15894960.7207
     },
     {
         "symbol": "BIOUSDT",
-        "volume_24h_usd": 5629295.6878
+        "volume_24h_usd": 5251282.3764
     },
     {
         "symbol": "BLASTUSDT",
-        "volume_24h_usd": 1740789.4989
+        "volume_24h_usd": 3134928.3121
     },
     {
         "symbol": "BLURUSDT",
-        "volume_24h_usd": 2294262.2972
+        "volume_24h_usd": 2254120.3927
     },
     {
         "symbol": "BMTUSDT",
-        "volume_24h_usd": 64690482.7678
+        "volume_24h_usd": 42621382.3588
     },
     {
         "symbol": "BNBUSDT",
-        "volume_24h_usd": 40000279.254
+        "volume_24h_usd": 36793289.823
     },
     {
         "symbol": "BOBAUSDT",
-        "volume_24h_usd": 911462.5316
+        "volume_24h_usd": 978985.8191
     },
     {
         "symbol": "BOMEUSDT",
-        "volume_24h_usd": 5582752.7014
+        "volume_24h_usd": 5520958.2471
     },
     {
         "symbol": "BRETTUSDT",
-        "volume_24h_usd": 26598201.7333
+        "volume_24h_usd": 25885422.189
     },
     {
         "symbol": "BROCCOLIUSDT",
-        "volume_24h_usd": 8603271.8189
+        "volume_24h_usd": 8762697.1489
     },
     {
         "symbol": "BRUSDT",
-        "volume_24h_usd": 1721334.5461
+        "volume_24h_usd": 2059462.504
     },
     {
         "symbol": "BSVUSDT",
-        "volume_24h_usd": 14079799.7108
+        "volume_24h_usd": 8090476.7503
     },
     {
         "symbol": "BSWUSDT",
-        "volume_24h_usd": 8310253.7298
+        "volume_24h_usd": 7243886.7824
     },
     {
         "symbol": "BTCPERP",
-        "volume_24h_usd": 48545288.4484
+        "volume_24h_usd": 62255777.9067
     },
     {
         "symbol": "BTCUSDT",
-        "volume_24h_usd": 8677237084.661
+        "volume_24h_usd": 9039659941.7892
     },
     {
         "symbol": "BTCUSDT-09MAY25",
-        "volume_24h_usd": 545322.5233
+        "volume_24h_usd": 556080.4297
     },
     {
         "symbol": "BTCUSDT-16MAY25",
-        "volume_24h_usd": 861418.4887
+        "volume_24h_usd": 925812.9658
     },
     {
         "symbol": "BTCUSDT-27JUN25",
-        "volume_24h_usd": 1567046.125
+        "volume_24h_usd": 1678547.4225
+    },
+    {
+        "symbol": "BTCUSDT-30MAY25",
+        "volume_24h_usd": 505100.6815
     },
     {
         "symbol": "C98USDT",
-        "volume_24h_usd": 1861526.0431
+        "volume_24h_usd": 1842922.5074
     },
     {
         "symbol": "CAKEUSDT",
-        "volume_24h_usd": 13180888.6183
+        "volume_24h_usd": 13454440.2479
     },
     {
         "symbol": "CARVUSDT",
-        "volume_24h_usd": 2008298.6943
+        "volume_24h_usd": 2627103.8501
     },
     {
         "symbol": "CATIUSDT",
-        "volume_24h_usd": 2587364.7018
+        "volume_24h_usd": 2619784.3234
     },
     {
         "symbol": "CELOUSDT",
-        "volume_24h_usd": 1756841.3596
+        "volume_24h_usd": 1575488.3509
     },
     {
         "symbol": "CETUSUSDT",
-        "volume_24h_usd": 19782339.1881
+        "volume_24h_usd": 18438602.6844
     },
     {
         "symbol": "CFXUSDT",
-        "volume_24h_usd": 2183487.4443
+        "volume_24h_usd": 2573927.6009
     },
     {
         "symbol": "CGPTUSDT",
-        "volume_24h_usd": 2918011.4802
+        "volume_24h_usd": 3767584.4936
     },
     {
         "symbol": "CHESSUSDT",
-        "volume_24h_usd": 949334.7963
+        "volume_24h_usd": 792231.7156
     },
     {
         "symbol": "CHILLGUYUSDT",
-        "volume_24h_usd": 62586959.5856
+        "volume_24h_usd": 72442370.5951
     },
     {
         "symbol": "CHRUSDT",
-        "volume_24h_usd": 1386065.116
+        "volume_24h_usd": 1215115.0042
     },
     {
         "symbol": "CHZUSDT",
-        "volume_24h_usd": 2319306.6003
+        "volume_24h_usd": 2471188.9317
     },
     {
         "symbol": "CKBUSDT",
-        "volume_24h_usd": 1499694.8933
+        "volume_24h_usd": 1506026.2093
     },
     {
         "symbol": "CLANKERUSDT",
-        "volume_24h_usd": 2405114.2764
+        "volume_24h_usd": 2917270.28
     },
     {
         "symbol": "COMPUSDT",
-        "volume_24h_usd": 5904868.5155
+        "volume_24h_usd": 6078013.6943
     },
     {
         "symbol": "COOKIEUSDT",
-        "volume_24h_usd": 4163479.9333
+        "volume_24h_usd": 8854511.3036
     },
     {
         "symbol": "COREUSDT",
-        "volume_24h_usd": 4868759.6499
+        "volume_24h_usd": 3859149.4106
     },
     {
         "symbol": "COTIUSDT",
-        "volume_24h_usd": 2505897.9705
+        "volume_24h_usd": 1460159.4251
     },
     {
         "symbol": "COWUSDT",
-        "volume_24h_usd": 6031016.3729
+        "volume_24h_usd": 6143948.0229
     },
     {
         "symbol": "CPOOLUSDT",
-        "volume_24h_usd": 1563114.1089
+        "volume_24h_usd": 1449593.4407
     },
     {
         "symbol": "CROUSDT",
-        "volume_24h_usd": 2536121.799
+        "volume_24h_usd": 2965466.7195
     },
     {
         "symbol": "CRVUSDT",
-        "volume_24h_usd": 59507064.3119
+        "volume_24h_usd": 58638276.2934
     },
     {
         "symbol": "CTCUSDT",
-        "volume_24h_usd": 1760924.0557
+        "volume_24h_usd": 1675401.6578
     },
     {
         "symbol": "CVCUSDT",
-        "volume_24h_usd": 590738.1525
+        "volume_24h_usd": 2029276.8753
     },
     {
         "symbol": "CVXUSDT",
-        "volume_24h_usd": 1181423.5585
+        "volume_24h_usd": 1245292.5843
     },
     {
         "symbol": "CYBERUSDT",
-        "volume_24h_usd": 753249.2432
+        "volume_24h_usd": 767474.3092
     },
     {
         "symbol": "DARKUSDT",
-        "volume_24h_usd": 8710489.1027
+        "volume_24h_usd": 9414808.4864
     },
     {
         "symbol": "DASHUSDT",
-        "volume_24h_usd": 10913918.5039
+        "volume_24h_usd": 11353388.6571
     },
     {
         "symbol": "DBRUSDT",
-        "volume_24h_usd": 907359.9741
+        "volume_24h_usd": 1013380.0998
     },
     {
         "symbol": "DEEPUSDT",
-        "volume_24h_usd": 173867719.2955
+        "volume_24h_usd": 165048729.8519
     },
     {
         "symbol": "DEGENUSDT",
-        "volume_24h_usd": 2426838.538
+        "volume_24h_usd": 2523986.1825
     },
     {
         "symbol": "DEXEUSDT",
-        "volume_24h_usd": 1866850.5618
+        "volume_24h_usd": 1852610.6865
     },
     {
         "symbol": "DGBUSDT",
-        "volume_24h_usd": 982741.3734
+        "volume_24h_usd": 710499.242
     },
     {
         "symbol": "DOGEUSDT",
-        "volume_24h_usd": 365446846.4379
+        "volume_24h_usd": 349894301.1945
     },
     {
         "symbol": "DOGSUSDT",
-        "volume_24h_usd": 6204354.2546
+        "volume_24h_usd": 7173793.8581
     },
     {
         "symbol": "DOGUSDT",
-        "volume_24h_usd": 2713220.2394
+        "volume_24h_usd": 2538504.4043
     },
     {
         "symbol": "DOTUSDT",
-        "volume_24h_usd": 43370745.7983
+        "volume_24h_usd": 36849318.0818
     },
     {
         "symbol": "DRIFTUSDT",
-        "volume_24h_usd": 4034384.8615
+        "volume_24h_usd": 4236010.079
     },
     {
         "symbol": "DUCKUSDT",
-        "volume_24h_usd": 1081584.0165
+        "volume_24h_usd": 1043624.4931
     },
     {
         "symbol": "DYDXUSDT",
-        "volume_24h_usd": 4521743.2116
+        "volume_24h_usd": 4293621.4933
     },
     {
         "symbol": "DYMUSDT",
-        "volume_24h_usd": 2686125.9532
+        "volume_24h_usd": 3602997.575
     },
     {
         "symbol": "EDUUSDT",
-        "volume_24h_usd": 16237714.6978
+        "volume_24h_usd": 18155581.0171
     },
     {
         "symbol": "EGLDUSDT",
-        "volume_24h_usd": 3143304.3987
+        "volume_24h_usd": 2951182.9833
     },
     {
         "symbol": "EIGENUSDT",
-        "volume_24h_usd": 7159461.3802
+        "volume_24h_usd": 6560727.0099
     },
     {
         "symbol": "ELXUSDT",
-        "volume_24h_usd": 4710114.5368
+        "volume_24h_usd": 5736616.5795
     },
     {
         "symbol": "ENAUSDT",
-        "volume_24h_usd": 81896915.7699
+        "volume_24h_usd": 83973902.6008
     },
     {
         "symbol": "ENJUSDT",
-        "volume_24h_usd": 3003422.3693
+        "volume_24h_usd": 2868295.0156
     },
     {
         "symbol": "ENSUSDT",
-        "volume_24h_usd": 24211460.863
+        "volume_24h_usd": 21522549.9527
     },
     {
         "symbol": "EOSUSDT",
-        "volume_24h_usd": 37184010.2035
+        "volume_24h_usd": 38772960.7626
     },
     {
         "symbol": "EPICUSDT",
-        "volume_24h_usd": 969277.1364
+        "volume_24h_usd": 1083853.8872
     },
     {
         "symbol": "EPTUSDT",
-        "volume_24h_usd": 6033650.191
+        "volume_24h_usd": 5574965.5451
     },
     {
         "symbol": "ETCUSDT",
-        "volume_24h_usd": 16361521.1367
+        "volume_24h_usd": 16835338.8958
     },
     {
         "symbol": "ETHBTCUSDT",
-        "volume_24h_usd": 985900.3897
+        "volume_24h_usd": 1654200.7424
     },
     {
         "symbol": "ETHFIUSDT",
-        "volume_24h_usd": 4494908.4212
+        "volume_24h_usd": 4344101.2508
     },
     {
         "symbol": "ETHPERP",
-        "volume_24h_usd": 19925806.012
+        "volume_24h_usd": 20358524.873
     },
     {
         "symbol": "ETHUSDT",
-        "volume_24h_usd": 3126274189.2353
+        "volume_24h_usd": 3287393312.3108
     },
     {
         "symbol": "ETHWUSDT",
-        "volume_24h_usd": 3723744.3306
+        "volume_24h_usd": 3374983.5212
     },
     {
         "symbol": "FARTCOINUSDT",
-        "volume_24h_usd": 510573467.0694
+        "volume_24h_usd": 518539715.1517
+    },
+    {
+        "symbol": "FBUSDT",
+        "volume_24h_usd": 649234.3451
     },
     {
         "symbol": "FHEUSDT",
-        "volume_24h_usd": 5024488.9748
+        "volume_24h_usd": 6017507.0078
     },
     {
         "symbol": "FIDAUSDT",
-        "volume_24h_usd": 842064.4343
+        "volume_24h_usd": 759487.4397
     },
     {
         "symbol": "FILUSDT",
-        "volume_24h_usd": 18236364.8166
+        "volume_24h_usd": 16715278.6666
     },
     {
         "symbol": "FIOUSDT",
-        "volume_24h_usd": 676114.6242
+        "volume_24h_usd": 593316.9206
     },
     {
         "symbol": "FLMUSDT",
-        "volume_24h_usd": 14675753.8823
+        "volume_24h_usd": 11314195.0693
     },
     {
         "symbol": "FLOCKUSDT",
-        "volume_24h_usd": 25427962.6418
+        "volume_24h_usd": 31389354.418
     },
     {
         "symbol": "FLOWUSDT",
-        "volume_24h_usd": 2441575.2751
+        "volume_24h_usd": 2661980.4163
     },
     {
         "symbol": "FLRUSDT",
-        "volume_24h_usd": 5697861.6182
+        "volume_24h_usd": 6827091.2683
     },
     {
         "symbol": "FLUXUSDT",
-        "volume_24h_usd": 725433.5208
+        "volume_24h_usd": 640454.2046
     },
     {
         "symbol": "FORMUSDT",
-        "volume_24h_usd": 2321225.8331
+        "volume_24h_usd": 2233018.0015
     },
     {
         "symbol": "FORTHUSDT",
-        "volume_24h_usd": 895837.1796
+        "volume_24h_usd": 848902.4088
     },
     {
         "symbol": "FOXYUSDT",
-        "volume_24h_usd": 1548616.3299
+        "volume_24h_usd": 1742980.883
     },
     {
         "symbol": "FUELUSDT",
-        "volume_24h_usd": 631652.045
+        "volume_24h_usd": 578648.436
     },
     {
         "symbol": "FUSDT",
-        "volume_24h_usd": 1723201.4595
+        "volume_24h_usd": 2056645.0309
     },
     {
         "symbol": "FWOGUSDT",
-        "volume_24h_usd": 16716449.5137
+        "volume_24h_usd": 14261433.6654
     },
     {
         "symbol": "FXSUSDT",
-        "volume_24h_usd": 1925529.7832
+        "volume_24h_usd": 1669978.1333
     },
     {
         "symbol": "GALAUSDT",
-        "volume_24h_usd": 38068157.6378
+        "volume_24h_usd": 38103382.6964
     },
     {
         "symbol": "GASUSDT",
-        "volume_24h_usd": 9354779.4522
+        "volume_24h_usd": 5603692.7373
     },
     {
         "symbol": "GIGAUSDT",
-        "volume_24h_usd": 4753618.6012
+        "volume_24h_usd": 4583630.0316
     },
     {
         "symbol": "GLMUSDT",
-        "volume_24h_usd": 1630271.6794
+        "volume_24h_usd": 1552148.7521
     },
     {
         "symbol": "GMTUSDT",
-        "volume_24h_usd": 17018728.7815
+        "volume_24h_usd": 18835901.0431
     },
     {
         "symbol": "GMXUSDT",
-        "volume_24h_usd": 1777604.6319
+        "volume_24h_usd": 1797386.4499
     },
     {
         "symbol": "GOATUSDT",
-        "volume_24h_usd": 25991995.635
+        "volume_24h_usd": 32056662.8084
     },
     {
         "symbol": "GODSUSDT",
-        "volume_24h_usd": 646863.7762
+        "volume_24h_usd": 905581.0087
     },
     {
         "symbol": "GOMININGUSDT",
-        "volume_24h_usd": 5870433.7866
+        "volume_24h_usd": 5125907.7982
     },
     {
         "symbol": "GPSUSDT",
-        "volume_24h_usd": 2077870.8334
+        "volume_24h_usd": 2044405.1714
     },
     {
         "symbol": "GRASSUSDT",
-        "volume_24h_usd": 8897824.3963
+        "volume_24h_usd": 8425771.6667
     },
     {
         "symbol": "GRIFFAINUSDT",
-        "volume_24h_usd": 11938182.049
+        "volume_24h_usd": 12381211.3861
     },
     {
         "symbol": "GRTUSDT",
-        "volume_24h_usd": 7198613.9913
+        "volume_24h_usd": 7413458.1965
     },
     {
         "symbol": "GTCUSDT",
-        "volume_24h_usd": 1382686.7899
+        "volume_24h_usd": 1372469.2463
     },
     {
         "symbol": "GUNUSDT",
-        "volume_24h_usd": 11924416.5398
+        "volume_24h_usd": 11575273.7624
+    },
+    {
+        "symbol": "GUSDT",
+        "volume_24h_usd": 931119.5203
     },
     {
         "symbol": "HBARUSDT",
-        "volume_24h_usd": 52382527.6184
+        "volume_24h_usd": 48804867.127
     },
     {
         "symbol": "HEIUSDT",
-        "volume_24h_usd": 2416271.24
+        "volume_24h_usd": 1344467.1935
     },
     {
         "symbol": "HFTUSDT",
-        "volume_24h_usd": 782331.3463
+        "volume_24h_usd": 765392.0721
     },
     {
         "symbol": "HIFIUSDT",
-        "volume_24h_usd": 6658827.7443
+        "volume_24h_usd": 14241401.2446
     },
     {
         "symbol": "HIGHUSDT",
-        "volume_24h_usd": 1473459.5281
+        "volume_24h_usd": 1717830.0873
     },
     {
         "symbol": "HIPPOUSDT",
-        "volume_24h_usd": 4389592.1251
+        "volume_24h_usd": 4266349.9586
     },
     {
         "symbol": "HIVEUSDT",
-        "volume_24h_usd": 1485835.5053
+        "volume_24h_usd": 2416293.8728
     },
     {
         "symbol": "HMSTRUSDT",
-        "volume_24h_usd": 2703241.3494
+        "volume_24h_usd": 2261049.1035
     },
     {
         "symbol": "HNTUSDT",
-        "volume_24h_usd": 2238493.473
+        "volume_24h_usd": 1721238.028
     },
     {
         "symbol": "HOOKUSDT",
-        "volume_24h_usd": 2580158.8773
+        "volume_24h_usd": 4471843.8725
+    },
+    {
+        "symbol": "HOTUSDT",
+        "volume_24h_usd": 507782.8983
     },
     {
         "symbol": "HYPERUSDT",
-        "volume_24h_usd": 9607382.4064
+        "volume_24h_usd": 8520683.0335
     },
     {
         "symbol": "HYPEUSDT",
-        "volume_24h_usd": 68608612.1548
+        "volume_24h_usd": 106637527.4005
     },
     {
         "symbol": "ICPUSDT",
-        "volume_24h_usd": 7452947.5364
+        "volume_24h_usd": 7632434.9975
     },
     {
         "symbol": "ICXUSDT",
-        "volume_24h_usd": 904837.418
+        "volume_24h_usd": 849639.7972
     },
     {
         "symbol": "IDUSDT",
-        "volume_24h_usd": 6605901.3741
+        "volume_24h_usd": 6523907.8507
     },
     {
         "symbol": "ILVUSDT",
-        "volume_24h_usd": 573717.2312
+        "volume_24h_usd": 511407.0741
     },
     {
         "symbol": "IMXUSDT",
-        "volume_24h_usd": 5237071.6386
+        "volume_24h_usd": 8015795.1052
     },
     {
         "symbol": "INITUSDT",
-        "volume_24h_usd": 55056190.6511
+        "volume_24h_usd": 49831300.9337
     },
     {
         "symbol": "INJUSDT",
-        "volume_24h_usd": 30737452.9746
+        "volume_24h_usd": 30136348.5414
     },
     {
         "symbol": "IOSTUSDT",
-        "volume_24h_usd": 862513.6374
+        "volume_24h_usd": 775886.6295
     },
     {
         "symbol": "IOTAUSDT",
-        "volume_24h_usd": 13608796.3318
+        "volume_24h_usd": 6829719.9985
     },
     {
         "symbol": "IOTXUSDT",
-        "volume_24h_usd": 700477.0673
+        "volume_24h_usd": 602052.1979
     },
     {
         "symbol": "IOUSDT",
-        "volume_24h_usd": 3122718.7857
+        "volume_24h_usd": 2703747.7862
     },
     {
         "symbol": "IPUSDT",
-        "volume_24h_usd": 12592699.2142
+        "volume_24h_usd": 12221330.235
     },
     {
         "symbol": "JASMYUSDT",
-        "volume_24h_usd": 13398850.6932
+        "volume_24h_usd": 12581503.2675
     },
     {
         "symbol": "JELLYJELLYUSDT",
-        "volume_24h_usd": 18510908.8908
+        "volume_24h_usd": 17704147.5947
     },
     {
         "symbol": "JOEUSDT",
-        "volume_24h_usd": 760771.9038
+        "volume_24h_usd": 560339.8149
     },
     {
         "symbol": "JSTUSDT",
-        "volume_24h_usd": 40459340.5441
+        "volume_24h_usd": 28482583.1794
     },
     {
         "symbol": "JTOUSDT",
-        "volume_24h_usd": 4948106.273
+        "volume_24h_usd": 4992975.4911
     },
     {
         "symbol": "JUPUSDT",
-        "volume_24h_usd": 17567990.6587
+        "volume_24h_usd": 16174786.3398
     },
     {
         "symbol": "JUSDT",
-        "volume_24h_usd": 843304.3036
+        "volume_24h_usd": 830039.106
     },
     {
         "symbol": "KAIAUSDT",
-        "volume_24h_usd": 1602565.7408
+        "volume_24h_usd": 1793791.4967
     },
     {
         "symbol": "KAITOUSDT",
-        "volume_24h_usd": 8095499.1573
+        "volume_24h_usd": 8663982.874
     },
     {
         "symbol": "KASUSDT",
-        "volume_24h_usd": 15543497.6965
+        "volume_24h_usd": 17393256.1405
     },
     {
         "symbol": "KAVAUSDT",
-        "volume_24h_usd": 3993983.5933
+        "volume_24h_usd": 3933633.3897
     },
     {
         "symbol": "KDAUSDT",
-        "volume_24h_usd": 2567868.8701
+        "volume_24h_usd": 2877997.3584
     },
     {
         "symbol": "KERNELUSDT",
-        "volume_24h_usd": 6652654.1717
+        "volume_24h_usd": 6035799.46
     },
     {
         "symbol": "KMNOUSDT",
-        "volume_24h_usd": 985407.9867
+        "volume_24h_usd": 1074790.1644
     },
     {
         "symbol": "KNCUSDT",
-        "volume_24h_usd": 758452.6516
+        "volume_24h_usd": 738894.8273
     },
     {
         "symbol": "KOMAUSDT",
-        "volume_24h_usd": 6176993.387
+        "volume_24h_usd": 6382071.3311
     },
     {
         "symbol": "KSMUSDT",
-        "volume_24h_usd": 1071659.7449
+        "volume_24h_usd": 1125064.1315
     },
     {
         "symbol": "L3USDT",
-        "volume_24h_usd": 1439674.1553
+        "volume_24h_usd": 1398749.2901
     },
     {
         "symbol": "LDOUSDT",
-        "volume_24h_usd": 14981024.3428
+        "volume_24h_usd": 15101559.0499
     },
     {
         "symbol": "LEVERUSDT",
-        "volume_24h_usd": 6236779.2724
+        "volume_24h_usd": 5703584.8241
     },
     {
         "symbol": "LINKUSDT",
-        "volume_24h_usd": 104883827.8057
+        "volume_24h_usd": 111926710.969
     },
     {
         "symbol": "LISTAUSDT",
-        "volume_24h_usd": 2922257.7985
+        "volume_24h_usd": 2853469.912
     },
     {
         "symbol": "LOOKSUSDT",
-        "volume_24h_usd": 1120053.972
+        "volume_24h_usd": 2350655.6025
     },
     {
         "symbol": "LPTUSDT",
-        "volume_24h_usd": 1999599.2067
-    },
-    {
-        "symbol": "LQTYUSDT",
-        "volume_24h_usd": 519087.4414
-    },
-    {
-        "symbol": "LSKUSDT",
-        "volume_24h_usd": 547262.8685
+        "volume_24h_usd": 1776102.0017
     },
     {
         "symbol": "LTCUSDT",
-        "volume_24h_usd": 76371750.577
+        "volume_24h_usd": 77691209.932
     },
     {
         "symbol": "LUMIAUSDT",
-        "volume_24h_usd": 1343112.4598
+        "volume_24h_usd": 2540007.2111
     },
     {
         "symbol": "LUNA2USDT",
-        "volume_24h_usd": 1565554.5564
+        "volume_24h_usd": 1567253.6662
     },
     {
         "symbol": "MAGICUSDT",
-        "volume_24h_usd": 15360119.1541
+        "volume_24h_usd": 12453617.4423
     },
     {
         "symbol": "MAJORUSDT",
-        "volume_24h_usd": 1315448.7598
+        "volume_24h_usd": 1247782.8263
     },
     {
         "symbol": "MANAUSDT",
-        "volume_24h_usd": 6141720.9969
+        "volume_24h_usd": 6976397.1036
     },
     {
         "symbol": "MANTAUSDT",
-        "volume_24h_usd": 1857996.8625
+        "volume_24h_usd": 1822993.6961
     },
     {
         "symbol": "MASAUSDT",
-        "volume_24h_usd": 1422973.5387
+        "volume_24h_usd": 1096223.6732
     },
     {
         "symbol": "MASKUSDT",
-        "volume_24h_usd": 2893097.8871
+        "volume_24h_usd": 2916949.3279
     },
     {
         "symbol": "MAVIAUSDT",
-        "volume_24h_usd": 8326282.3639
+        "volume_24h_usd": 7141683.7927
     },
     {
         "symbol": "MAVUSDT",
-        "volume_24h_usd": 1518770.6042
+        "volume_24h_usd": 2103568.4267
     },
     {
         "symbol": "MBLUSDT",
-        "volume_24h_usd": 918576.2008
+        "volume_24h_usd": 576741.8416
     },
     {
         "symbol": "MBOXUSDT",
-        "volume_24h_usd": 1279542.258
+        "volume_24h_usd": 1248389.2622
+    },
+    {
+        "symbol": "MDTUSDT",
+        "volume_24h_usd": 846092.4928
     },
     {
         "symbol": "MELANIAUSDT",
-        "volume_24h_usd": 11439953.7273
+        "volume_24h_usd": 9916558.4024
     },
     {
         "symbol": "MEMEFIUSDT",
-        "volume_24h_usd": 65287204.2257
+        "volume_24h_usd": 136721352.5166
     },
     {
         "symbol": "MEMEUSDT",
-        "volume_24h_usd": 3994995.0415
+        "volume_24h_usd": 3765504.1118
     },
     {
         "symbol": "MERLUSDT",
-        "volume_24h_usd": 1618118.2743
+        "volume_24h_usd": 1327217.8184
     },
     {
         "symbol": "MEUSDT",
-        "volume_24h_usd": 18946033.6961
+        "volume_24h_usd": 20882637.68
     },
     {
         "symbol": "MEWUSDT",
-        "volume_24h_usd": 13561422.392
+        "volume_24h_usd": 12814673.92
     },
     {
         "symbol": "MICHIUSDT",
-        "volume_24h_usd": 6429781.8129
+        "volume_24h_usd": 4608745.2214
     },
     {
         "symbol": "MINAUSDT",
-        "volume_24h_usd": 1142066.2974
+        "volume_24h_usd": 1197732.1184
     },
     {
         "symbol": "MKRUSDT",
-        "volume_24h_usd": 6559986.0386
+        "volume_24h_usd": 7241195.1633
+    },
+    {
+        "symbol": "MLNUSDT",
+        "volume_24h_usd": 2555048.1834
     },
     {
         "symbol": "MNTUSDT",
-        "volume_24h_usd": 5453507.1853
+        "volume_24h_usd": 5168064.0006
     },
     {
         "symbol": "MOBILEUSDT",
-        "volume_24h_usd": 1665121.2138
+        "volume_24h_usd": 548421.2551
     },
     {
         "symbol": "MOCAUSDT",
-        "volume_24h_usd": 29795428.0325
+        "volume_24h_usd": 48103183.6537
     },
     {
         "symbol": "MOODENGUSDT",
-        "volume_24h_usd": 9826256.2135
+        "volume_24h_usd": 9861321.6879
     },
     {
         "symbol": "MORPHOUSDT",
-        "volume_24h_usd": 1150091.6115
+        "volume_24h_usd": 1110089.9445
     },
     {
         "symbol": "MOVEUSDT",
-        "volume_24h_usd": 22239540.8273
+        "volume_24h_usd": 23558117.9187
     },
     {
         "symbol": "MTLUSDT",
-        "volume_24h_usd": 993535.6096
+        "volume_24h_usd": 1079398.8521
     },
     {
         "symbol": "MUBARAKUSDT",
-        "volume_24h_usd": 16062540.113
+        "volume_24h_usd": 14486774.7435
     },
     {
         "symbol": "MYRIAUSDT",
-        "volume_24h_usd": 562365.8935
+        "volume_24h_usd": 714995.638
     },
     {
         "symbol": "MYROUSDT",
-        "volume_24h_usd": 6310594.5127
+        "volume_24h_usd": 4760741.4777
     },
     {
         "symbol": "NCUSDT",
-        "volume_24h_usd": 3096130.0427
+        "volume_24h_usd": 4019251.9962
     },
     {
         "symbol": "NEARUSDT",
-        "volume_24h_usd": 57077180.6937
+        "volume_24h_usd": 65242153.7905
     },
     {
         "symbol": "NEIROETHUSDT",
-        "volume_24h_usd": 14137688.2182
+        "volume_24h_usd": 13485704.1849
     },
     {
         "symbol": "NEOUSDT",
-        "volume_24h_usd": 4641286.156
+        "volume_24h_usd": 4103980.1489
     },
     {
         "symbol": "NFPUSDT",
-        "volume_24h_usd": 1133211.8543
+        "volume_24h_usd": 1226505.0548
     },
     {
         "symbol": "NILUSDT",
-        "volume_24h_usd": 8615258.2487
+        "volume_24h_usd": 8396374.2592
     },
     {
         "symbol": "NKNUSDT",
-        "volume_24h_usd": 2520892.4769
+        "volume_24h_usd": 2229058.7146
     },
     {
         "symbol": "NOTUSDT",
-        "volume_24h_usd": 17903779.9437
+        "volume_24h_usd": 13338833.7442
     },
     {
         "symbol": "NSUSDT",
-        "volume_24h_usd": 1918631.7038
+        "volume_24h_usd": 1904166.8864
     },
     {
         "symbol": "OBTUSDT",
-        "volume_24h_usd": 938138.9275
+        "volume_24h_usd": 742634.3029
     },
     {
         "symbol": "OGNUSDT",
-        "volume_24h_usd": 594972.5379
+        "volume_24h_usd": 588525.2728
+    },
+    {
+        "symbol": "OGUSDT",
+        "volume_24h_usd": 514408.3652
     },
     {
         "symbol": "OLUSDT",
-        "volume_24h_usd": 3133087.6618
+        "volume_24h_usd": 3527735.3311
     },
     {
         "symbol": "OMGUSDT",
-        "volume_24h_usd": 956170.6652
+        "volume_24h_usd": 730210.3482
     },
     {
         "symbol": "OMNIUSDT",
-        "volume_24h_usd": 1372348.4076
+        "volume_24h_usd": 1357087.7229
     },
     {
         "symbol": "OMUSDT",
-        "volume_24h_usd": 50750313.6638
+        "volume_24h_usd": 38315352.7751
     },
     {
         "symbol": "ONDOPERP",
-        "volume_24h_usd": 1353982.6918
+        "volume_24h_usd": 1344961.1942
     },
     {
         "symbol": "ONDOUSDT",
-        "volume_24h_usd": 139348189.6293
+        "volume_24h_usd": 132610481.6838
     },
     {
         "symbol": "ONEUSDT",
-        "volume_24h_usd": 1518771.8658
+        "volume_24h_usd": 1911843.1091
     },
     {
         "symbol": "ONGUSDT",
-        "volume_24h_usd": 623461.2701
+        "volume_24h_usd": 612146.6965
     },
     {
         "symbol": "ONTUSDT",
-        "volume_24h_usd": 741898.5954
+        "volume_24h_usd": 620169.3212
     },
     {
         "symbol": "OPUSDT",
-        "volume_24h_usd": 29955130.555
+        "volume_24h_usd": 30106219.2524
     },
     {
         "symbol": "ORCAUSDT",
-        "volume_24h_usd": 9574870.8273
+        "volume_24h_usd": 8571006.7959
     },
     {
         "symbol": "ORDIUSDT",
-        "volume_24h_usd": 28228273.0481
+        "volume_24h_usd": 27431419.857
     },
     {
         "symbol": "OSMOUSDT",
-        "volume_24h_usd": 620588.554
+        "volume_24h_usd": 719838.4393
     },
     {
         "symbol": "PARTIUSDT",
-        "volume_24h_usd": 21727759.4159
+        "volume_24h_usd": 19715423.3355
     },
     {
         "symbol": "PAXGUSDT",
-        "volume_24h_usd": 7964606.672
+        "volume_24h_usd": 8009766.668
     },
     {
         "symbol": "PEAQUSDT",
-        "volume_24h_usd": 1241203.1358
+        "volume_24h_usd": 1428908.8049
     },
     {
         "symbol": "PENDLEUSDT",
-        "volume_24h_usd": 19163815.7243
+        "volume_24h_usd": 19315777.5044
     },
     {
         "symbol": "PENGUUSDT",
-        "volume_24h_usd": 168717367.587
+        "volume_24h_usd": 142854981.7409
     },
     {
         "symbol": "PEOPLEUSDT",
-        "volume_24h_usd": 5850872.104
+        "volume_24h_usd": 6172479.0901
     },
     {
         "symbol": "PERPUSDT",
-        "volume_24h_usd": 5360638.4456
+        "volume_24h_usd": 3443601.055
     },
     {
         "symbol": "PHAUSDT",
-        "volume_24h_usd": 1183303.2131
+        "volume_24h_usd": 956708.8578
     },
     {
         "symbol": "PHBUSDT",
-        "volume_24h_usd": 1140089.1688
+        "volume_24h_usd": 1161793.0972
     },
     {
         "symbol": "PIPPINUSDT",
-        "volume_24h_usd": 6325818.766
+        "volume_24h_usd": 10139212.8731
     },
     {
         "symbol": "PIXELUSDT",
-        "volume_24h_usd": 1903813.1252
+        "volume_24h_usd": 1848657.9568
     },
     {
         "symbol": "PLUMEUSDT",
-        "volume_24h_usd": 4853653.7061
+        "volume_24h_usd": 4553108.733
     },
     {
         "symbol": "PNUTUSDT",
-        "volume_24h_usd": 27490291.5366
+        "volume_24h_usd": 27292099.8184
+    },
+    {
+        "symbol": "POLPERP",
+        "volume_24h_usd": 580417.7316
     },
     {
         "symbol": "POLUSDT",
-        "volume_24h_usd": 16256238.3858
+        "volume_24h_usd": 14772401.1024
     },
     {
         "symbol": "POLYXUSDT",
-        "volume_24h_usd": 1119298.511
+        "volume_24h_usd": 1184038.8726
     },
     {
         "symbol": "PONKEUSDT",
-        "volume_24h_usd": 2843185.8262
+        "volume_24h_usd": 2609282.9417
     },
     {
         "symbol": "POPCATPERP",
-        "volume_24h_usd": 2546327.5927
+        "volume_24h_usd": 2665253.1477
     },
     {
         "symbol": "POPCATUSDT",
-        "volume_24h_usd": 142608956.7806
+        "volume_24h_usd": 144201145.2203
     },
     {
         "symbol": "PORTALUSDT",
-        "volume_24h_usd": 1168199.3771
+        "volume_24h_usd": 1178599.1112
     },
     {
         "symbol": "POWRUSDT",
-        "volume_24h_usd": 647023.8843
+        "volume_24h_usd": 807288.8422
     },
     {
         "symbol": "PRCLUSDT",
-        "volume_24h_usd": 22504094.8415
+        "volume_24h_usd": 27882504.5015
     },
     {
         "symbol": "PRIMEUSDT",
-        "volume_24h_usd": 2007838.8591
+        "volume_24h_usd": 1990284.3547
     },
     {
         "symbol": "PROMPTUSDT",
-        "volume_24h_usd": 19199740.7193
+        "volume_24h_usd": 16086378.1125
     },
     {
         "symbol": "PUFFERUSDT",
-        "volume_24h_usd": 703061.1372
+        "volume_24h_usd": 718212.5889
     },
     {
         "symbol": "PUMPUSDT",
-        "volume_24h_usd": 6678539.3233
+        "volume_24h_usd": 4617058.9727
     },
     {
         "symbol": "PYTHUSDT",
-        "volume_24h_usd": 5442700.6124
+        "volume_24h_usd": 4928183.7266
     },
     {
         "symbol": "QNTUSDT",
-        "volume_24h_usd": 819485.3274
+        "volume_24h_usd": 811368.3417
     },
     {
         "symbol": "QTUMUSDT",
-        "volume_24h_usd": 1166173.8482
+        "volume_24h_usd": 1009275.1847
     },
     {
         "symbol": "RADUSDT",
-        "volume_24h_usd": 668611.9061
+        "volume_24h_usd": 717879.4333
     },
     {
         "symbol": "RAREUSDT",
-        "volume_24h_usd": 16161296.7532
+        "volume_24h_usd": 13137927.9467
     },
     {
         "symbol": "RAYDIUMUSDT",
-        "volume_24h_usd": 9997993.719
+        "volume_24h_usd": 6954708.3737
     },
     {
         "symbol": "RDNTUSDT",
-        "volume_24h_usd": 1595543.1097
+        "volume_24h_usd": 1529604.4884
     },
     {
         "symbol": "REDUSDT",
-        "volume_24h_usd": 3097031.1339
+        "volume_24h_usd": 2351879.7922
     },
     {
         "symbol": "RENDERUSDT",
-        "volume_24h_usd": 20855215.6593
+        "volume_24h_usd": 21970947.9248
     },
     {
         "symbol": "REXUSDT",
-        "volume_24h_usd": 986678.8082
+        "volume_24h_usd": 4326048.8586
     },
     {
         "symbol": "REZUSDT",
-        "volume_24h_usd": 6475792.1908
+        "volume_24h_usd": 6007698.3436
     },
     {
         "symbol": "RFCUSDT",
-        "volume_24h_usd": 9584642.6457
+        "volume_24h_usd": 9781714.1782
+    },
+    {
+        "symbol": "RIFUSDT",
+        "volume_24h_usd": 604351.0317
+    },
+    {
+        "symbol": "RLCUSDT",
+        "volume_24h_usd": 528483.7444
     },
     {
         "symbol": "ROAMUSDT",
-        "volume_24h_usd": 551738.5084
+        "volume_24h_usd": 535318.3296
     },
     {
         "symbol": "ROSEUSDT",
-        "volume_24h_usd": 1992985.9255
-    },
-    {
-        "symbol": "RPLUSDT",
-        "volume_24h_usd": 902566.0244
+        "volume_24h_usd": 1892516.8205
     },
     {
         "symbol": "RSRUSDT",
-        "volume_24h_usd": 2871946.683
+        "volume_24h_usd": 3054031.6452
     },
     {
         "symbol": "RSS3USDT",
-        "volume_24h_usd": 2467649.1551
+        "volume_24h_usd": 2309820.0423
     },
     {
         "symbol": "RUNEUSDT",
-        "volume_24h_usd": 9397396.6361
+        "volume_24h_usd": 10232708.8153
     },
     {
         "symbol": "RVNUSDT",
-        "volume_24h_usd": 984155.1139
+        "volume_24h_usd": 1068229.9357
     },
     {
         "symbol": "SAFEUSDT",
-        "volume_24h_usd": 2286910.0456
+        "volume_24h_usd": 2470202.6595
     },
     {
         "symbol": "SAGAUSDT",
-        "volume_24h_usd": 4043644.4682
+        "volume_24h_usd": 4275359.3069
     },
     {
         "symbol": "SANDUSDT",
-        "volume_24h_usd": 8725737.3188
+        "volume_24h_usd": 8822475.9836
     },
     {
         "symbol": "SCAUSDT",
-        "volume_24h_usd": 2031799.604
+        "volume_24h_usd": 2106626.6767
     },
     {
         "symbol": "SCRUSDT",
-        "volume_24h_usd": 705248.2936
+        "volume_24h_usd": 655940.9889
     },
     {
         "symbol": "SCUSDT",
-        "volume_24h_usd": 593986.1643
+        "volume_24h_usd": 683145.1794
     },
     {
         "symbol": "SDUSDT",
-        "volume_24h_usd": 662981.6445
+        "volume_24h_usd": 757805.6645
     },
     {
         "symbol": "SEIUSDT",
-        "volume_24h_usd": 44576420.4827
+        "volume_24h_usd": 49816026.8335
     },
     {
         "symbol": "SENDUSDT",
-        "volume_24h_usd": 2178350.6244
+        "volume_24h_usd": 2154957.9079
     },
     {
         "symbol": "SHELLUSDT",
-        "volume_24h_usd": 16411398.7578
+        "volume_24h_usd": 17171058.6889
     },
     {
         "symbol": "SHIB1000USDT",
-        "volume_24h_usd": 32868288.3588
+        "volume_24h_usd": 33247364.7544
     },
     {
         "symbol": "SIGNUSDT",
-        "volume_24h_usd": 41920647.4127
+        "volume_24h_usd": 53779778.1255
     },
     {
         "symbol": "SIRENUSDT",
-        "volume_24h_usd": 7745498.0469
+        "volume_24h_usd": 4579427.5952
     },
     {
         "symbol": "SKLUSDT",
-        "volume_24h_usd": 923282.4395
+        "volume_24h_usd": 708394.4986
     },
     {
         "symbol": "SLERFUSDT",
-        "volume_24h_usd": 2183823.9242
+        "volume_24h_usd": 2193119.6928
     },
     {
         "symbol": "SLPUSDT",
-        "volume_24h_usd": 575932.4315
+        "volume_24h_usd": 663200.3863
     },
     {
         "symbol": "SNTUSDT",
-        "volume_24h_usd": 520764.7167
+        "volume_24h_usd": 515422.5485
     },
     {
         "symbol": "SNXUSDT",
-        "volume_24h_usd": 2600454.6104
+        "volume_24h_usd": 2466492.1853
     },
     {
         "symbol": "SOLAYERUSDT",
-        "volume_24h_usd": 34961115.8083
+        "volume_24h_usd": 45975471.6923
     },
     {
         "symbol": "SOLPERP",
-        "volume_24h_usd": 6973110.41
+        "volume_24h_usd": 6330167.04
     },
     {
         "symbol": "SOLUSDT",
-        "volume_24h_usd": 1659524979.879
+        "volume_24h_usd": 1608230408.123
     },
     {
         "symbol": "SOLVUSDT",
-        "volume_24h_usd": 5201550.8244
+        "volume_24h_usd": 6239344.3758
     },
     {
         "symbol": "SONICUSDT",
-        "volume_24h_usd": 15220112.9449
+        "volume_24h_usd": 16524280.7505
     },
     {
         "symbol": "SPECUSDT",
-        "volume_24h_usd": 6934063.0162
+        "volume_24h_usd": 5536941.0571
     },
     {
         "symbol": "SPELLUSDT",
-        "volume_24h_usd": 6323774.1089
+        "volume_24h_usd": 2552449.1378
     },
     {
         "symbol": "SPXUSDT",
-        "volume_24h_usd": 19647128.2335
+        "volume_24h_usd": 18207107.7261
     },
     {
         "symbol": "SSVUSDT",
-        "volume_24h_usd": 1269156.4442
+        "volume_24h_usd": 1227763.2292
     },
     {
         "symbol": "STEEMUSDT",
-        "volume_24h_usd": 3751072.7599
+        "volume_24h_usd": 2700196.389
+    },
+    {
+        "symbol": "STGUSDT",
+        "volume_24h_usd": 502517.9988
     },
     {
         "symbol": "STORJUSDT",
-        "volume_24h_usd": 2172842.5744
+        "volume_24h_usd": 2120772.3325
     },
     {
         "symbol": "STOUSDT",
-        "volume_24h_usd": 2532371.8239
+        "volume_24h_usd": 2155595.8001
     },
     {
         "symbol": "STPTUSDT",
-        "volume_24h_usd": 2617944.8109
+        "volume_24h_usd": 2491514.4189
     },
     {
         "symbol": "STRKUSDT",
-        "volume_24h_usd": 13448933.0888
+        "volume_24h_usd": 13133406.7024
     },
     {
         "symbol": "STXUSDT",
-        "volume_24h_usd": 29574406.2215
+        "volume_24h_usd": 33385172.5081
     },
     {
         "symbol": "SUIPERP",
-        "volume_24h_usd": 2116817.7365
+        "volume_24h_usd": 2264066.0247
     },
     {
         "symbol": "SUIUSDT",
-        "volume_24h_usd": 1052306859.088
+        "volume_24h_usd": 1100434090.518
     },
     {
         "symbol": "SUNDOGUSDT",
-        "volume_24h_usd": 6248269.9319
-    },
-    {
-        "symbol": "SUNUSDT",
-        "volume_24h_usd": 622582.0377
+        "volume_24h_usd": 5315560.4778
     },
     {
         "symbol": "SUPERUSDT",
-        "volume_24h_usd": 4618905.2494
+        "volume_24h_usd": 4390258.1422
     },
     {
         "symbol": "SUSDT",
-        "volume_24h_usd": 21361701.0395
+        "volume_24h_usd": 20530333.8886
     },
     {
         "symbol": "SUSHIUSDT",
-        "volume_24h_usd": 2393328.5274
+        "volume_24h_usd": 2437810.1218
     },
     {
         "symbol": "SWARMSUSDT",
-        "volume_24h_usd": 9511350.5613
+        "volume_24h_usd": 10381929.4004
     },
     {
         "symbol": "SWEATUSDT",
-        "volume_24h_usd": 1289126.0322
+        "volume_24h_usd": 1313802.36
     },
     {
         "symbol": "SWELLUSDT",
-        "volume_24h_usd": 2960799.6124
+        "volume_24h_usd": 2858642.0972
     },
     {
         "symbol": "SXPUSDT",
-        "volume_24h_usd": 3919013.5925
+        "volume_24h_usd": 2334646.688
     },
     {
         "symbol": "SYNUSDT",
-        "volume_24h_usd": 4492514.6613
+        "volume_24h_usd": 4015106.2935
     },
     {
         "symbol": "SYSUSDT",
-        "volume_24h_usd": 930754.3928
+        "volume_24h_usd": 1275900.0492
     },
     {
         "symbol": "TAIKOUSDT",
-        "volume_24h_usd": 2098488.4728
+        "volume_24h_usd": 2064052.4135
     },
     {
         "symbol": "TAIUSDT",
-        "volume_24h_usd": 25559040.5508
+        "volume_24h_usd": 23681810.8222
     },
     {
         "symbol": "TAOUSDT",
-        "volume_24h_usd": 79495044.259
+        "volume_24h_usd": 80273982.1794
     },
     {
         "symbol": "THETAUSDT",
-        "volume_24h_usd": 5484311.6877
+        "volume_24h_usd": 6147103.2587
     },
     {
         "symbol": "THEUSDT",
-        "volume_24h_usd": 744268.8948
+        "volume_24h_usd": 771262.0239
     },
     {
         "symbol": "TIAUSDT",
-        "volume_24h_usd": 39619215.1385
+        "volume_24h_usd": 41834795.2039
     },
     {
         "symbol": "TNSRUSDT",
-        "volume_24h_usd": 547067.0669
+        "volume_24h_usd": 586111.4322
     },
     {
         "symbol": "TOKENUSDT",
-        "volume_24h_usd": 6396724.3866
+        "volume_24h_usd": 39998812.0221
     },
     {
         "symbol": "TONUSDT",
-        "volume_24h_usd": 52926664.5526
+        "volume_24h_usd": 35492870.6512
     },
     {
         "symbol": "TRBUSDT",
-        "volume_24h_usd": 6565315.2917
+        "volume_24h_usd": 6831268.5464
     },
     {
         "symbol": "TRUMPUSDT",
-        "volume_24h_usd": 425966015.9284
+        "volume_24h_usd": 389152317.6249
     },
     {
         "symbol": "TRUUSDT",
-        "volume_24h_usd": 782267.3896
+        "volume_24h_usd": 1059681.4064
     },
     {
         "symbol": "TRXUSDT",
-        "volume_24h_usd": 17159340.1468
+        "volume_24h_usd": 14867799.1924
     },
     {
         "symbol": "TSTBSCUSDT",
-        "volume_24h_usd": 3880381.554
+        "volume_24h_usd": 3938066.1612
     },
     {
         "symbol": "TUSDT",
-        "volume_24h_usd": 1725156.8341
+        "volume_24h_usd": 1165792.1853
     },
     {
         "symbol": "TUTUSDT",
-        "volume_24h_usd": 6199926.9345
+        "volume_24h_usd": 5744424.0668
     },
     {
         "symbol": "TWTUSDT",
-        "volume_24h_usd": 1279729.1218
+        "volume_24h_usd": 1251985.7981
     },
     {
         "symbol": "UMAUSDT",
-        "volume_24h_usd": 1036620.9408
+        "volume_24h_usd": 1099041.8823
     },
     {
         "symbol": "UNIUSDT",
-        "volume_24h_usd": 32147252.0302
+        "volume_24h_usd": 32998465.6358
     },
     {
         "symbol": "USTCUSDT",
-        "volume_24h_usd": 766475.9506
+        "volume_24h_usd": 701770.8146
     },
     {
         "symbol": "USUALUSDT",
-        "volume_24h_usd": 5359430.2482
+        "volume_24h_usd": 5770080.121
     },
     {
         "symbol": "UXLINKUSDT",
-        "volume_24h_usd": 7777421.7211
+        "volume_24h_usd": 8284280.7348
     },
     {
         "symbol": "VANAUSDT",
-        "volume_24h_usd": 10594937.9017
+        "volume_24h_usd": 10441955.5349
     },
     {
         "symbol": "VANRYUSDT",
-        "volume_24h_usd": 1651053.8513
+        "volume_24h_usd": 1564703.5859
     },
     {
         "symbol": "VELOUSDT",
-        "volume_24h_usd": 986505.4965
+        "volume_24h_usd": 1003153.3648
     },
     {
         "symbol": "VETUSDT",
-        "volume_24h_usd": 7095847.1951
+        "volume_24h_usd": 6537530.1198
     },
     {
         "symbol": "VINEUSDT",
-        "volume_24h_usd": 17763624.7881
+        "volume_24h_usd": 18961651.8469
     },
     {
         "symbol": "VIRTUALUSDT",
-        "volume_24h_usd": 151548568.6865
+        "volume_24h_usd": 233891232.9707
     },
     {
         "symbol": "VOXELUSDT",
-        "volume_24h_usd": 12614307.716
+        "volume_24h_usd": 12867306.4395
     },
     {
         "symbol": "VRAUSDT",
-        "volume_24h_usd": 833934.102
+        "volume_24h_usd": 783202.3278
     },
     {
         "symbol": "VRUSDT",
-        "volume_24h_usd": 2814463.0826
+        "volume_24h_usd": 2385405.1259
     },
     {
         "symbol": "VTHOUSDT",
-        "volume_24h_usd": 1950644.0292
+        "volume_24h_usd": 2524579.2984
     },
     {
         "symbol": "VVVUSDT",
-        "volume_24h_usd": 6811268.6281
+        "volume_24h_usd": 5856073.4345
     },
     {
         "symbol": "WALUSDT",
-        "volume_24h_usd": 45005907.5931
+        "volume_24h_usd": 30698169.4654
     },
     {
         "symbol": "WAVESUSDT",
-        "volume_24h_usd": 2700767.6211
+        "volume_24h_usd": 2540496.7057
     },
     {
         "symbol": "WAXPUSDT",
-        "volume_24h_usd": 8685058.1276
+        "volume_24h_usd": 3443396.8477
     },
     {
         "symbol": "WCTUSDT",
-        "volume_24h_usd": 21121896.9832
+        "volume_24h_usd": 17013560.8578
     },
     {
         "symbol": "WIFUSDT",
-        "volume_24h_usd": 172747849.99
+        "volume_24h_usd": 172330200.3316
     },
     {
         "symbol": "WLDUSDT",
-        "volume_24h_usd": 111870451.9044
+        "volume_24h_usd": 106642195.096
     },
     {
         "symbol": "WOOUSDT",
-        "volume_24h_usd": 947628.343
+        "volume_24h_usd": 942778.7947
     },
     {
         "symbol": "WUSDT",
-        "volume_24h_usd": 11391111.6471
+        "volume_24h_usd": 11211443.5874
     },
     {
         "symbol": "XAIUSDT",
-        "volume_24h_usd": 3730423.4766
+        "volume_24h_usd": 3259235.9123
     },
     {
         "symbol": "XAUTUSDT",
-        "volume_24h_usd": 7273512.5881
-    },
-    {
-        "symbol": "XCHUSDT",
-        "volume_24h_usd": 940620.6264
+        "volume_24h_usd": 7677509.2537
     },
     {
         "symbol": "XCNUSDT",
-        "volume_24h_usd": 12901318.6972
+        "volume_24h_usd": 13106238.3195
     },
     {
         "symbol": "XDCUSDT",
-        "volume_24h_usd": 1964169.3066
+        "volume_24h_usd": 1835367.7519
     },
     {
         "symbol": "XEMUSDT",
-        "volume_24h_usd": 3398304.8617
+        "volume_24h_usd": 2722888.9861
     },
     {
         "symbol": "XIONUSDT",
-        "volume_24h_usd": 2136845.0339
-    },
-    {
-        "symbol": "XLMPERP",
-        "volume_24h_usd": 593587.0752
+        "volume_24h_usd": 1703549.6611
     },
     {
         "symbol": "XLMUSDT",
-        "volume_24h_usd": 18922215.4722
+        "volume_24h_usd": 16530996.1288
     },
     {
         "symbol": "XMRUSDT",
-        "volume_24h_usd": 146770977.8856
+        "volume_24h_usd": 152967390.969
     },
     {
         "symbol": "XNOUSDT",
-        "volume_24h_usd": 905395.5285
+        "volume_24h_usd": 801171.3812
+    },
+    {
+        "symbol": "XRDUSDT",
+        "volume_24h_usd": 650829.8926
     },
     {
         "symbol": "XRPPERP",
-        "volume_24h_usd": 7538012.7603
+        "volume_24h_usd": 7282922.2728
     },
     {
         "symbol": "XRPUSDT",
-        "volume_24h_usd": 1196916501.4404
+        "volume_24h_usd": 1030513245.5192
     },
     {
         "symbol": "XTZUSDT",
-        "volume_24h_usd": 4493082.017
+        "volume_24h_usd": 4247141.4893
     },
     {
         "symbol": "XVGUSDT",
-        "volume_24h_usd": 1398840.3059
+        "volume_24h_usd": 1381984.1825
     },
     {
         "symbol": "YFIUSDT",
-        "volume_24h_usd": 7209736.2319
+        "volume_24h_usd": 5283823.5493
     },
     {
         "symbol": "YGGUSDT",
-        "volume_24h_usd": 1675709.8634
+        "volume_24h_usd": 2296844.1658
     },
     {
         "symbol": "ZBCNUSDT",
-        "volume_24h_usd": 3418185.52
+        "volume_24h_usd": 3839609.0195
     },
     {
         "symbol": "ZECUSDT",
-        "volume_24h_usd": 11523470.3224
+        "volume_24h_usd": 11958523.3268
     },
     {
         "symbol": "ZENTUSDT",
-        "volume_24h_usd": 548546.2952
+        "volume_24h_usd": 564553.7621
     },
     {
         "symbol": "ZENUSDT",
-        "volume_24h_usd": 1665676.7015
+        "volume_24h_usd": 1719937.6206
     },
     {
         "symbol": "ZEREBROUSDT",
-        "volume_24h_usd": 172525079.9921
+        "volume_24h_usd": 206337733.7668
     },
     {
         "symbol": "ZETAUSDT",
-        "volume_24h_usd": 10724454.8309
+        "volume_24h_usd": 10989240.545
     },
     {
         "symbol": "ZEUSUSDT",
-        "volume_24h_usd": 954579.3988
+        "volume_24h_usd": 760476.128
     },
     {
         "symbol": "ZILUSDT",
-        "volume_24h_usd": 2374546.2814
+        "volume_24h_usd": 2344817.1096
     },
     {
         "symbol": "ZKJUSDT",
-        "volume_24h_usd": 28240331.6172
+        "volume_24h_usd": 31370653.7122
     },
     {
         "symbol": "ZKUSDT",
-        "volume_24h_usd": 4493641.3442
+        "volume_24h_usd": 4565974.5727
     },
     {
         "symbol": "ZORAUSDT",
-        "volume_24h_usd": 12823273.0276
+        "volume_24h_usd": 11824371.72
     },
     {
         "symbol": "ZRCUSDT",
-        "volume_24h_usd": 1278251.3193
+        "volume_24h_usd": 1589911.4729
     },
     {
         "symbol": "ZROUSDT",
-        "volume_24h_usd": 18488215.7984
+        "volume_24h_usd": 18920991.2224
     },
     {
         "symbol": "ZRXUSDT",
-        "volume_24h_usd": 1383654.6056
+        "volume_24h_usd": 2069721.6196
     }
 ]
